@@ -1,0 +1,24 @@
+body{
+    background: url("image/background.jpeg"); 
+}
+
+header{
+    justify-content: center;
+    text-align: center;
+    padding: 4%;
+}
+
+header h4{
+    color: #CB0D0D;
+}
+
+header h1{
+    letter-spacing: 18px;
+}
+ 
+/*--------------- la navbar ----------------*/
+nav{
+    height: 7rem;
+    background-color: #490909 !important;    
+}
+
