@@ -17,8 +17,47 @@ header h1{
 }
  
 /*--------------- la navbar ----------------*/
-nav{
+.bg-light{
     height: 7rem;
     background-color: #490909 !important;    
 }
+
+/* -- --------------- section Fresh cofee ---------------- -- */
+#cofee .work{
+    background-color: hsl(34, 73%, 87%);
+    position: absolute;
+}
+
+#cofee h3{
+    letter-spacing: 10px;
+    margin: 20px;
+}
+
+#cofee button{
+    width: 17vh;
+    background-color: #7B261A ;
+}
+
+#cofee .work2{
+    margin-left: 300px;
+    position: reltive;
+}
+
+
+/* section our promise */
+
+#promise .container-fluid{
+    background-color: #CB0D0D !important;
+    height: 40rem !important;
+    justify-content: end;
+}
+
+#promise .card{
+    background-color: transparent;
+}
+
+#footer .container{
+    background-color: #490909;
+}
+
 
